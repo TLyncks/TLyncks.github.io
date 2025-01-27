@@ -10,3 +10,7 @@
 .navbar a:hover {
   color: lightgray;
 }
+
+body {
+  background-color: gray;
+}
